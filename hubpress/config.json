@@ -4,6 +4,11 @@
     "repositoryName": "v101tv.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "v101.tv",
+    "disqus": "v101tv"
+  },
+  "socialnetwork": {},
   "theme": {
     "name": "saga"
   }
