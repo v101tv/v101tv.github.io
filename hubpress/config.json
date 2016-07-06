@@ -10,7 +10,10 @@
     "description": "Podcasts of Everything Virtual",
     "disqus": "v101tv"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "tim@v101.tv",
+    "twitter": "@v101tv"
+  },
   "theme": {
     "name": "saga"
   }
