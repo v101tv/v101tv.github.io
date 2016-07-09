@@ -1,5 +1,6 @@
 # Coming soon!
 
+
 v101.tv will be a resource of video podcasts and whiteboard sessions for anything relating to virtualization. The goal is to have 101 level topics and playlists.
 
 First, we will cover a few basic topics:
