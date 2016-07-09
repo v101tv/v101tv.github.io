@@ -1,5 +1,0 @@
-= Site Launch
-
-Welcome! This is the launch for v101.tv!
-
-v101.tv will house videos on anything related to virtualization.
